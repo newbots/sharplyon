@@ -227,7 +227,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {146340607},--Sudo users
+    sudo_users = {149516204,142627841},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[SPARTACUS Robot Ver 3.7
